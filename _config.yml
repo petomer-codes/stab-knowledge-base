@@ -1,0 +1,47 @@
+# STAB Knowledge Base — Jekyll + Just the Docs configuration
+# Docs: https://just-the-docs.com
+
+title: STAB Knowledge Base
+description: >-
+  A knowledge base for the Space-Time Analysis Bayes (STAB) group,
+  led by Dr. Jon Wakefield (UW/UBC) and Dr. Zehang Richard Li (UCSC).
+
+# --- GitHub Pages project-site settings ---
+# If you publish at https://<org-or-user>.github.io/stab-knowledge-base,
+# baseurl must match the repo name. If you use a custom domain or a
+# user/org root site instead, set baseurl to "".
+baseurl: "/stab-knowledge-base"
+url: ""
+
+remote_theme: just-the-docs/just-the-docs
+
+# --- Theme behavior ---
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+nav_sort: case_insensitive          # sort by nav_order, then title
+nav_external_links:
+  opens_in_new_tab: true
+
+aux_links:
+  "STAB Knowledge Base on GitHub":
+    - "https://github.com/petomer-codes/stab-knowledge-base"
+aux_links_new_tab: true
+
+footer_content: "STAB group knowledge base — content maintained by lab members."
+
+# Enable copy-button on code blocks (nice for the Models > Code subpages)
+enable_copy_code_button: true
+
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - .bundle

@@ -1,7 +1,7 @@
 ---
 title: DHS
 layout: default
-parent: Survey Setup & Notation
+parent: Applications
 nav_order: 1
 ---
 

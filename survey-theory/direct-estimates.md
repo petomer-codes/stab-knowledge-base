@@ -1,7 +1,8 @@
 ---
-title: "Direct Estimators"
-output:
-bibliography: bib.bib
+title: Direct Estimators
+layout: default
+parent: Survey Theory
+nav_order: 1
 ---
 
 ```{r setup, include=FALSE}

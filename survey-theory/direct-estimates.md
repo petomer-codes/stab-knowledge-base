@@ -5,7 +5,9 @@ bibliography: bib.bib
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+rmarkdown::render("Direct_Estimator.Rmd",
+                  output_format = rmarkdown::md_document(variant = "gfm"),
+                  output_file = "direct-estimators.md")
 ```
 
 # Introduction

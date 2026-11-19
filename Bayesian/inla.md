@@ -1,8 +1,8 @@
 ---
 title: INLA
 layout: default
-parent: Survey Setup & Notation
+parent: Bayesian
 nav_order: 2
 ---
 
-# ntegrated Nested Laplace Approximation (INLA)
+# Integrated Nested Laplace Approximation (INLA)

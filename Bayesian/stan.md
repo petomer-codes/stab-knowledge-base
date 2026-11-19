@@ -1,8 +1,8 @@
 ---
-title: Stan
+title: stan
 layout: default
-parent: Survey Setup & Notation
+parent: Bayesian
 nav_order: 2
 ---
 
-# Stan (INLA)
+# Stan

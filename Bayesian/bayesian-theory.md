@@ -1,7 +1,7 @@
 ---
 title: Bayesian theory
 layout: default
-parent: Survey Setup & Notation
+parent: Bayesian
 nav_order: 2
 ---
 

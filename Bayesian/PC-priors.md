@@ -1,7 +1,7 @@
 ---
 title: PC Priors
 layout: default
-parent: Survey Setup & Notation
+parent: Bayesian
 nav_order: 2
 ---
 

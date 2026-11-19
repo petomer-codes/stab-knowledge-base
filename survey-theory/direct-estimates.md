@@ -6,9 +6,7 @@ nav_order: 1
 ---
 
 ```{r setup, include=FALSE}
-rmarkdown::render("Direct_Estimator.Rmd",
-                  output_format = rmarkdown::md_document(variant = "gfm"),
-                  output_file = "direct-estimators.md")
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
 # Introduction

@@ -11,14 +11,11 @@ plain Markdown files — no build tooling is required to add or edit a page.
 Current outline (chapters map to top-level folders/files, subtopics to files
 inside them):
 
-1. **Survey Theory** — finite population sampling, randomness, weights,
-   direct estimates, variance fix
-2. **Survey Setup & Notation** — DHS, MICS, other
-3. **SAE & Bayesian Background**
-4. **INLA & STAN**
-5. **Models** — area-level, unit-level, cluster-level (each with theory,
-   when we use them, limitations, code)
-6. **Appendix** — group members, dictionary, resources
+1. **Survey Theory** — finite population sampling, design-based approach, sampling mechanisms, asymptotics and design consistency, direct estimates, variance fix.
+2. **Small Area Estimations** - area-level, unit-level, cluster-level, model-assisted estimation (each with theory, when we use them, limitations, code).
+3. **Bayesian** - Bayesian theory, INLA, STAN, PC priors.
+4. **Applications** — DHS, MICS, other
+5. **Appendix** — group members, dictionary, resources
 
 To add content, just edit the relevant `.md` file — the front matter
 (`title`, `parent`, `nav_order`, etc.) controls where it sits in the sidebar.

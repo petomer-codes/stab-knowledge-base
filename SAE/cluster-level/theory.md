@@ -2,7 +2,7 @@
 title: Theory
 layout: default
 parent: Cluster-level
-grand_parent: Models
+grand_parent: Small Area Estimation
 nav_order: 1
 ---
 

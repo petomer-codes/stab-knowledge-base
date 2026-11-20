@@ -1,7 +1,7 @@
 ---
 title: Area-level
 layout: default
-parent: SAE
+parent: Small Area Estimation
 nav_order: 1
 has_children: true
 ---

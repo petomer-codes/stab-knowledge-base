@@ -1,8 +1,8 @@
 ---
 title: When We Use Them
 layout: default
-parent: Area-level
-grand_parent: Models
+parent: Model-assisted estimation
+grand_parent: Small Area Estimation
 nav_order: 2
 ---
 

@@ -2,7 +2,7 @@
 title: Limitations
 layout: default
 parent: Cluster-level
-grand_parent: model-assisted estimation
+grand_parent:  Small Area Estimation
 nav_order: 3
 ---
 

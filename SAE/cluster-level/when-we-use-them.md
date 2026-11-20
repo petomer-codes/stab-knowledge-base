@@ -2,7 +2,7 @@
 title: When We Use Them
 layout: default
 parent: Cluster-level
-grand_parent: Models
+grand_parent: model-assisted estimation
 nav_order: 2
 ---
 

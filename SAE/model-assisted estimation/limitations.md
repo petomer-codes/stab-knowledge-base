@@ -1,7 +1,7 @@
 ---
 title: Limitations
 layout: default
-parent: Area-level
+parent: Model-assisted estimation
 grand_parent: Models
 nav_order: 3
 ---
